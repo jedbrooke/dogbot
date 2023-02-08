@@ -1,0 +1,9 @@
+.vscode
+env.json
+*.gvmi
+*.log
+*.pyc
+golem/logs
+golem/output
+**/__pycache__
+venv

@@ -1,0 +1,4 @@
+yapapi>=0.10.0
+apprise
+discord
+rq
